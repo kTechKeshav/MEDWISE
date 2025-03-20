@@ -1,5 +1,8 @@
 # Medwise
 
+## Live Demo
+=>  https://ktechkeshav.github.io/MEDWISE/
+
 ## Overview
 
 Medwise is a comprehensive hospital management application designed to streamline various hospital operations, including patient management, appointment scheduling, and doctor registration. The application aims to enhance the efficiency of healthcare services while providing a user-friendly interface for both patients and healthcare professionals.
